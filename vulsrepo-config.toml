@@ -1,0 +1,4 @@
+[Server]
+rootPath = "/root/go/src/github.com/usiusi360/vulsrepo"
+resultsPath = "/root/vuls/results"
+serverPort = "5111"
